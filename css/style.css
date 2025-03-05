@@ -1,6 +1,8 @@
 
 body {
 background-image: url(../imagenes/hero-bg.jpg);
+background-size: cover;
+background-position:center;
   display: flex;
   justify-content: center;
   align-items: center;
